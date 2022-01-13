@@ -16,10 +16,10 @@ Reproject vector data (i.e. change the projection of the data).
 
 **Data:**
 
--Sierra Leone national boders (Polygon/lines)
--Sierra Leone provinces (Lines)
--Sierra Leone health (Points)
--Sierra Leone airports (CSV)
+- Sierra Leone national boders (Polygon/lines)
+- Sierra Leone provinces (Lines)
+- Sierra Leone health (Points)
+- Sierra Leone airports (CSV)
 
 **Tasks**
 
