@@ -1,27 +1,27 @@
-#Exercise 1
+**Exercise 1**
 
-##Aim of the exercise
+**Aim of the exercise**
 
 To take the first steps.
 Understand the user interface and get to know the layer concept.
 Display vector data in QGIS and view the attribute data.
 Reproject vector data (i.e. change the projection of the data).
 
-##Wiki:
+**Wiki:**
 
 * [Interface](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/wikis/interface)
 * [Projections](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/wikis/projections)
 * [Layer Concept and data import](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/wikis/layer-concept)
 
 
-##Data:
+**Data:**
 
 *Sierra Leone national boders (Polygon/lines)
 *Sierra Leone provinces (Lines)
 *Sierra Leone health (Points)
 *Sierra Leone airports (CSV)
 
-##Tasks
+**Tasks**
 
 1. Open QGIS and familiarise yourself with the user interface.
 2. Open the above files in QGIS. Load the vector layers into your programme. Load the CSV file via "Add delimited text".
@@ -32,5 +32,9 @@ Reproject vector data (i.e. change the projection of the data).
 7. Now save the health layer in the projection WGS 84 / Pseudo-Mercator- EPSG:3857. This changes the projection of the file. Check this in the properties of the newly created layer.
 8. Save your project. 
 
-##This (or similar) is what it looks like in the end:
+**This (or similar) is what it looks like in the end:**
+
+![](Ex1.png)
+
+
 
