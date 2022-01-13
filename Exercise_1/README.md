@@ -16,6 +16,8 @@ Reproject vector data (i.e. change the projection of the data).
 
 **Data:**
 
+Download the [data](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/blob/main/Exercise_1/Ex1_data.zip) and save it on your PC. Create a local folder and save the above data there. (.zip folders must be unzipped beforehand.)
+
 - Sierra Leone national boders (Polygon/lines)
 - Sierra Leone provinces (Lines)
 - Sierra Leone health (Points)
