@@ -1,5 +1,8 @@
 # GIS in Anticipatory Humanitarian Action
 
+## Day 1.: Introduction to coordinates, geodata and QGIS 
+
+Self study: exercise_1
 
 
 ## Getting started
