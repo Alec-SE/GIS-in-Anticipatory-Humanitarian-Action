@@ -36,7 +36,7 @@ Download the [data](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-
 
 **This (or similar) is what it looks like in the end:**
 
-![](Ex1.png)
+![](Exercise_1_result.png)
 
 
 
