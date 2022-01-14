@@ -20,4 +20,5 @@ Download the [data](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-
 - [Global Power Plant Database](https://datasets.wri.org/dataset/globalpowerplantdatabase) (Points/Shapefile)
 
 **This (or similar) is what it looks like in the end:**
+
 ![](World nuclear.png)
