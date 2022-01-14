@@ -14,6 +14,14 @@
 **Self study:** [exercise_1](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/tree/main/Exercise_1)
 
 
+##Day 2.: Visualization in QGIS
+
+** wiki Day 2.**
+- [Attribute data](attribute-data)
+- [Basemaps](basemaps)
+- [Digitalisation](digitalisation)
+- [Map design](map-design)
+
 ## Getting started
 
 To make it easy for you to get started with GitLab, here's a list of recommended next steps.
