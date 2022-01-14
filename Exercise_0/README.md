@@ -18,3 +18,6 @@ Download the [data](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-
 - [World Countries (Generalized)](https://hub.arcgis.com/datasets/2b93b06dc0dc4e809d3c8db5cb96ba69_0/explore) (Polygon/Shapefile)
 - [Significant Earthquake Database](https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.ngdc.mgg.hazards:G012153) (CSV)
 - [Global Power Plant Database](https://datasets.wri.org/dataset/globalpowerplantdatabase) (Points/Shapefile)
+
+**This (or similar) is what it looks like in the end:**
+![](World nuclear.png)
