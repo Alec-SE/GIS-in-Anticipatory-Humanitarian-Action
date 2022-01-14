@@ -37,8 +37,4 @@ Download the [data](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-
 9. Optional: You can add the OpenStreetMap base map via the browser windos => XYZ Tiles. Note that online base maps can lead to problems with the projection of the different layers. Make sure to remove the base map bevor saving the project. 
 
 **This (or similar) is what it looks like in the end:**
-
 ![](Exercise_1_result.png)
-
-
-
