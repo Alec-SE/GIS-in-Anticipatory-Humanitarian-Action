@@ -13,7 +13,7 @@ Get to know QGIS and familiarize yourself with geodata.
 
 **Data:**
 
-Download the [data](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/blob/main/Exercise_1/Ex1_data.zip) and save it on your PC. Create a local folder and save the above data there. (.zip folders must be unzipped beforehand.)
+Download the [data](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/blob/main/Exercise_0/Ex0_data.zip) and save it on your PC. Create a local folder and save the above data there. (.zip folders must be unzipped beforehand.)
 
 - [World Countries (Generalized)](https://hub.arcgis.com/datasets/2b93b06dc0dc4e809d3c8db5cb96ba69_0/explore) (Polygon/Shapefile)
 - [Significant Earthquake Database](https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.ngdc.mgg.hazards:G012153) (CSV)
