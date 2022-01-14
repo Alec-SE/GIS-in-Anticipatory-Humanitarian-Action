@@ -21,4 +21,4 @@ Download the [data](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-
 
 **This (or similar) is what it looks like in the end:**
 
-![](World nuclear.png)
+![](Exercise_0_result.png)
