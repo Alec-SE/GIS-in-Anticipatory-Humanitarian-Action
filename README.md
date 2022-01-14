@@ -2,9 +2,9 @@
 
 ## Day 1.: Introduction to coordinates, geodata and QGIS 
 
-**Follow along: [exercise_0](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/tree/main/Exercise_0)
+**Follow along:** [exercise_0](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/tree/main/Exercise_0)
 
-**Self study: [exercise_1](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/tree/main/Exercise_1)
+**Self study:** [exercise_1](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/tree/main/Exercise_1)
 
 
 ## Getting started
