@@ -28,6 +28,7 @@ Download the [data](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-
 
 1. Open QGIS and familiarise yourself with the user interface.
 2. Open the above files in QGIS. Load the vector layers into your programme. Load the CSV file via "Add delimited text".
+![](Airports_text_layer.png)
 3. Interact with the map and explore the data sets. Use the zoom tool and move the map. Notice the status bar at the bottom of the screen and how it changes. 
 4. Familiarise yourself with the layer window (Layer List). Alternately show and hide different layers and move the layers in the hierarchy. Rename the data layer in a meaningful way. Note that the latter has no effect on the data sources (file names, storage location).
 5. View the attribute data of the layers. For this purpose look at the attribute table.
