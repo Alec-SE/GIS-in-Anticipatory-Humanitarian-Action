@@ -19,6 +19,17 @@ Download the [data](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-
 - [Significant Earthquake Database](https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.ngdc.mgg.hazards:G012153) (CSV)
 - [Global Power Plant Database](https://datasets.wri.org/dataset/globalpowerplantdatabase) (Points/Shapefile)
 
+**Tasks**
+
+1. Open QGIS and create a new project. .
+2. [Open the above files in QGIS](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/wikis/layer-concept). Load the vector layers via Layer -> Data Source Manager -> Vector into your programme. Load the CSV file via  Layer -> Data Source Manager -> Delimited text" in your programme. 
+3. Arrange the three layers in a practical order. 
+4. Interact with the map and explore the data sets. Use the zoom tool and move the map. 
+5. Save your project.
+
 **This (or similar) is what it looks like in the end:**
 
 ![](Exercise_0_result.png)
+
+
+
