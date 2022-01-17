@@ -22,7 +22,7 @@ Download the [data](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-
 **Tasks**
 
 1. Open QGIS and create a new project. .
-2. [Open the above files in QGIS](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/wikis/layer-concept). Load the vector layers via Layer -> Data Source Manager -> Vector into your programme. Load the CSV file via  Layer -> Data Source Manager -> Delimited text" in your programme. 
+2. [Open the above files in QGIS](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/wikis/layer-concept). Load the vector layers via Layer -> Data Source Manager -> Vector into your programme. Load the test layer file (Significant Earthquake Data) via  Layer -> Data Source Manager -> Add Delimited text Layer in your programme. While loading the text layer make sure to open the drop-down menu “File Format” and check the box “costume delimiter” and “Tab”. 
 3. Arrange the three layers in a practical order. 
 4. Interact with the map and explore the data sets. Use the zoom tool and move the map. 
 5. Save your project.
