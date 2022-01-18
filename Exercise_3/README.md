@@ -1,6 +1,7 @@
 **Exercise 3**
 
-In this scenario, we will create an overview map of the prevalence of stunting in Sierra Leone at the district level. For this reason, we will visualise both the prevalence of stunting and key infrastructure such as hospitals, airports and roads. The final decision on which data to visualise and in which way is up to you, the cartographer.  
+In this scenario we will try to get a better overview of the food security situation in Sierre Leone in 2015. To do this, we will use a dataset that contains data on both the food secure population and the food insecure population. Which data you want to use is up to you.  
+ 
 
 **Aim of the exercise**
 
@@ -18,29 +19,27 @@ Obtain the skills to produce a printable map with QGIS.
 
 **Data:**
 
-Download the [data (Ex2_data)](https://gitlab.com/-/ide/project/Alec-SE/gis-in-anticipatory-humanitarian-action/tree/main/-/Exercise_2/Ex2_data.zip/) and save it on your PC. Create a local folder and save the above data there. (.zip folders must be unzipped beforehand.)
+Download the [data (Ex3_data)]) and save it on your PC. Create a local folder and save the above data there. (.zip folders must be unzipped beforehand.)
 
 
-- [Sierra Leone prevalence of stunting 2014 (data modified)](https://geonode.wfp.org/layers/geonode%3Asle_ica_malnutrition_geonode_20170517) (Polygons) 
+- [Sierra Leone Food Insecure Population, 2015 (data modified)](https://geonode.wfp.org/layers/geonode%3Asle_ica_admin3_recentfoodinsecurity_geonode_20170517) (Polygons) 
 - [Sierra Leone national boders](https://data.humdata.org/dataset/geoboundaries-admin-boundaries-for-sierra-leone) (lines)
 - [Sierra Leone provinces](https://data.humdata.org/dataset/geoboundaries-admin-boundaries-for-sierra-leone) (Lines)
-- [Sierra Leone health](https://data.humdata.org/dataset/sierra-leone-healthsites) (Points)
-- [Sierra Leone airports](Sierra Leone airports) (Points) 
+- Optional [Sierra Leone health](https://data.humdata.org/dataset/sierra-leone-healthsites) (Points)
+- Optional [Sierra Leone airports](Sierra Leone airports) (Points) 
 - Optional [Sierra Leone roads](https://data.humdata.org/dataset/hotosm_sle_roads) (lines)- [Info](https://wiki.openstreetmap.org/wiki/Key:highway)
 
 **Tasks**
 1. Open the above files in QGIS. Load the vector layers prevalence of stunting 2014, national boders, provinces and airports into your programme.
-2. Classify the stunting data and adjust the coloring. See wiki [Classification of data- Classification of ordinal scaled data](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/wikis/Classification-of-data)
-3. (Optional) Load the health layer in QGIS. Classify the health layer to only show hospitals. ![](Symbols_health.png) 
-3. Chose symbology and colors for borders, roads, hospitals and airports which seems fit to you. See wiki [Styling panel](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/wikis/Styling-panel)
-4. (Optional) Load the layer roads in QGIS. Classify the roads with the column "highway". Chose which roads and path you want to visualize and adjust a suitable symbology.
-5. (Optional) Add a basemap to your map via the Plugin- QuickMapServices- Adjust the opacity of your layers to make the best use of the basemap. [Tutorial video]( https://www.youtube.com/watch?v=dTfCOlUxVbo)
-6. Great a print layout and add features like title, sources, scales, legend and North arrow. See wiki [Map design](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/wikis/map-design) 
-7. Export your map as PDF.
+2. Classify the  data and adjust the coloring. In this case you are dealing with metrically scaled data. This means that you have to find practical classes yourself that support the statement you want to make with your map. In the wiki you will find a video that shows how you can do this. [Classification of data- Classification of metric scale data](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/wikis/Classification-of-data)
+3. (Optional) If you think that additional data in your map would help in a way you can add them. 
+4. (Optional) Add a basemap to your map via the Plugin- QuickMapServices- Adjust the opacity of your layers to make the best use of the basemap. [Tutorial video]( https://www.youtube.com/watch?v=dTfCOlUxVbo)
+5. Great a print layout and add features like title, sources, scales, legend and North arrow. See wiki [Map design](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/wikis/map-design) 
+6. Export your map as PDF.
 
 
 
 ##This (or similar) is what it looks like in the end:
 
-![](Exercise_2.png) 
+![](Exercise_3.png) 
 
