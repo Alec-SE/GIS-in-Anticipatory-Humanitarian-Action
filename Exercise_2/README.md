@@ -29,7 +29,9 @@ Download the [data]() and save it on your PC. Create a local folder and save the
 
 **Tasks**
 1. Open the above files in QGIS. Load the vector layers into your programme.
-2. Classify the stunting data. 
+2. Classify the stunting data and adjust the coloring. See wiki [Classification of data- Classification of ordinal scaled data](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/wikis/Classification-of-data)
+3. Chose symbology and colors for borders, roads, hospitals and airports which seems fit to you.
+
 
 
 ##This (or similar) is what it looks like in the end:
