@@ -41,3 +41,5 @@ Download the [data]() and save it on your PC. Create a local folder and save the
 
 
 ##This (or similar) is what it looks like in the end:
+
+![](Symbols health.png) 
