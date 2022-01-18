@@ -20,9 +20,22 @@
 
 **Wiki Day 2.**
 - [Attribute data](attribute-data)
-- [Basemaps](basemaps)
 - [Digitalisation](digitalisation)
-- [Map design](map-design)
+- [Basemaps](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/wikis/basemaps)
+- [Classification of data](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/wikis/Classification-of-data)
+- [Styling panel](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/wikis/Styling-panel)
+- [Map design](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/wikis/map-design)
+
+
+**Data sources**
+
+- [HDX](https://data.humdata.org/)
+- 
+
+
+
+
+
 
 **Follow along:** [exercise_3](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/tree/main/Exercise_)
 
