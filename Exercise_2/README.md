@@ -18,7 +18,7 @@ Obtain the skills to produce a printable map with QGIS.
 
 **Data:**
 
-Download the [data]() and save it on your PC. Create a local folder and save the above data there. (.zip folders must be unzipped beforehand.)
+Download the [data (Ex2_data)](https://gitlab.com/-/ide/project/Alec-SE/gis-in-anticipatory-humanitarian-action/tree/main/-/Exercise_2/Ex2_data.zip/) and save it on your PC. Create a local folder and save the above data there. (.zip folders must be unzipped beforehand.)
 
 
 - [Sierra Leone prevalence of stunting 2014 (data modified)](https://geonode.wfp.org/layers/geonode%3Asle_ica_malnutrition_geonode_20170517) (Polygons) 
