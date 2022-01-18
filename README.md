@@ -27,13 +27,11 @@
 - [Map design](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/wikis/map-design)
 
 
-**Data sources**
+**Data sources:**
 
 - [HDX](https://data.humdata.org/)
-- 
-
-
-
+- [DesInventar Sendai](https://www.desinventar.net/)
+- [WFPGeoNode](https://geonode.wfp.org/)
 
 
 
