@@ -28,12 +28,15 @@ Download the [data]() and save it on your PC. Create a local folder and save the
 - [Sierra Leone provinces](https://data.humdata.org/dataset/geoboundaries-admin-boundaries-for-sierra-leone) (Lines)
 - [Sierra Leone health](https://data.humdata.org/dataset/sierra-leone-healthsites) (Points)
 - [Sierra Leone airports](Sierra Leone airports) (Points) 
+- Optional [Sierra Leone roads](https://data.humdata.org/dataset/hotosm_sle_roads) (lines)- [Info](https://wiki.openstreetmap.org/wiki/Key:highway)
 
 **Tasks**
-1. Open the above files in QGIS. Load the vector layers into your programme.
+1. Open the above files in QGIS. Load the vector layers prevalence of stunting 2014, national boders, provinces, health and airports into your programme.
 2. Classify the stunting data and adjust the coloring. See wiki [Classification of data- Classification of ordinal scaled data](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/wikis/Classification-of-data)
 3. Chose symbology and colors for borders, roads, hospitals and airports which seems fit to you. See wiki [Styling panel](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/wikis/Styling-panel)
-4. 
+4. (Optional) Load the layer roads in QGIS. Classify the roads with the column "highway". Chose which roads and path you want to visualize and adjust a suitable symbology.
+5. Great a print layout and add features like title, sources, scales, legend and North arrow. See wiki [Map design](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/wikis/map-design) 
+6. Export your map as PDF.
 
 
 
