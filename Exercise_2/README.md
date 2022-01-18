@@ -10,9 +10,7 @@ Obtain the skills to produce a printable map with QGIS.
 
 **Wiki:**
 
-- [Attribute data](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/wikis/attribute-data)
 - [Basemaps](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/wikis/basemaps)
-- [Digitalisation](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/wikis/digitalisation)
 - [Classification of data](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/wikis/Classification-of-data)
 - [Styling panel](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/wikis/Styling-panel)
 - [Map design](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/wikis/map-design)
@@ -35,8 +33,9 @@ Download the [data]() and save it on your PC. Create a local folder and save the
 2. Classify the stunting data and adjust the coloring. See wiki [Classification of data- Classification of ordinal scaled data](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/wikis/Classification-of-data)
 3. Chose symbology and colors for borders, roads, hospitals and airports which seems fit to you. See wiki [Styling panel](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/wikis/Styling-panel)
 4. (Optional) Load the layer roads in QGIS. Classify the roads with the column "highway". Chose which roads and path you want to visualize and adjust a suitable symbology.
-5. Great a print layout and add features like title, sources, scales, legend and North arrow. See wiki [Map design](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/wikis/map-design) 
-6. Export your map as PDF.
+5. (Optional) Add a basemap to your map via the Plugin- QuickMapServices- Adjust the opacity of your layers to make the best use of the basemap. [Tutorial video]( https://www.youtube.com/watch?v=dTfCOlUxVbo)
+6. Great a print layout and add features like title, sources, scales, legend and North arrow. See wiki [Map design](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/wikis/map-design) 
+7. Export your map as PDF.
 
 
 
