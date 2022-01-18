@@ -13,6 +13,8 @@ Obtain the skills to produce a printable map with QGIS.
 - [Attribute data](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/wikis/attribute-data)
 - [Basemaps](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/wikis/basemaps)
 - [Digitalisation](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/wikis/digitalisation)
+- [Classification of data](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/wikis/Classification-of-data)
+- [Styling panel](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/wikis/Styling-panel)
 - [Map design](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/wikis/map-design)
 
 
@@ -30,7 +32,8 @@ Download the [data]() and save it on your PC. Create a local folder and save the
 **Tasks**
 1. Open the above files in QGIS. Load the vector layers into your programme.
 2. Classify the stunting data and adjust the coloring. See wiki [Classification of data- Classification of ordinal scaled data](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/wikis/Classification-of-data)
-3. Chose symbology and colors for borders, roads, hospitals and airports which seems fit to you.
+3. Chose symbology and colors for borders, roads, hospitals and airports which seems fit to you. See wiki [Styling panel](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/wikis/Styling-panel)
+4. 
 
 
 
