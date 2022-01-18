@@ -29,8 +29,9 @@ Download the [data]() and save it on your PC. Create a local folder and save the
 - Optional [Sierra Leone roads](https://data.humdata.org/dataset/hotosm_sle_roads) (lines)- [Info](https://wiki.openstreetmap.org/wiki/Key:highway)
 
 **Tasks**
-1. Open the above files in QGIS. Load the vector layers prevalence of stunting 2014, national boders, provinces, health and airports into your programme.
+1. Open the above files in QGIS. Load the vector layers prevalence of stunting 2014, national boders, provinces and airports into your programme.
 2. Classify the stunting data and adjust the coloring. See wiki [Classification of data- Classification of ordinal scaled data](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/wikis/Classification-of-data)
+3. (Optional) Load the health layer in QGIS. Classify the health layer to only show hospitals. ![]() 
 3. Chose symbology and colors for borders, roads, hospitals and airports which seems fit to you. See wiki [Styling panel](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/wikis/Styling-panel)
 4. (Optional) Load the layer roads in QGIS. Classify the roads with the column "highway". Chose which roads and path you want to visualize and adjust a suitable symbology.
 5. (Optional) Add a basemap to your map via the Plugin- QuickMapServices- Adjust the opacity of your layers to make the best use of the basemap. [Tutorial video]( https://www.youtube.com/watch?v=dTfCOlUxVbo)
