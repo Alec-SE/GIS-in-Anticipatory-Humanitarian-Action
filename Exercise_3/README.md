@@ -19,7 +19,7 @@ Obtain the skills to produce a printable map with QGIS.
 
 **Data:**
 
-Download the [data (Ex3_data)]() and save it on your PC. Create a local folder and save the above data there. (.zip folders must be unzipped beforehand.)
+Download the [data (Ex3_data)](https://gitlab.com/-/ide/project/Alec-SE/gis-in-anticipatory-humanitarian-action/tree/main/-/Exercise_3/Ex3_data.zip/) and save it on your PC. Create a local folder and save the above data there. (.zip folders must be unzipped beforehand.)
 
 
 - [Sierra Leone Food Insecure Population, 2015 (data modified)](https://geonode.wfp.org/layers/geonode%3Asle_ica_admin3_recentfoodinsecurity_geonode_20170517) (Polygons) 
