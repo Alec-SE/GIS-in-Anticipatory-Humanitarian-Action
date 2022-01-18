@@ -35,8 +35,8 @@
 
 
 
-**Follow along:** [exercise_3](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/tree/main/Exercise_)
+**Follow along:** [exercise_2](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/tree/main/Exercise_2)
 
-**Self study:** [exercise_4](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/tree/main/Exercise_)
+**Self study:** [exercise_3](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/tree/main/Exercise_3)
 
 
