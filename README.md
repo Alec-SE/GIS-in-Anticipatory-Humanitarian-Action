@@ -28,4 +28,12 @@
 
 **Self study:** [exercise_4](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/tree/main/Exercise_)
 
+## Day 3: Basic (Non) Spatial Data Analyses, Geoprocessing and (Non)Spatial Joins
 
+**Wiki Day 3**
+**Day 3.: Basic data analysis and geometry operations**
+- [Spatial Queries](Spatial-queries) 
+- [Non spatial queries](non-spatial-queries)
+- [Geoprocessing Tools-Selection](Geoprocessing-tools)
+- [Non spatial Joins](non-spatial-joins)
+- [Spatial Joins](spatial-joins)
