@@ -25,12 +25,12 @@
 - [Classification of data](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/wikis/Classification-of-data)
 - [Styling panel](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/wikis/Styling-panel)
 - [Map design](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/wikis/map-design)
--[Plugins](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/wikis/Plugins)
+- [Plugins](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/wikis/Plugins)
 
 **Plugins:**
 
--QuickMapService
--OSM Place search
+- QuickMapService
+- OSM Place search
 
 **Data sources:**
 
