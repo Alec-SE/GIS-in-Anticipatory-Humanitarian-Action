@@ -16,7 +16,7 @@ Learning how to reveal circumstances and connections between spatial data featur
 * [Map design](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/wikis/map-design)
 
 ### Data:
-Download all the [data sets](Ex4_data.zip) and save the folder on your PC and unzip the file. The zip folder includes:
+Download all the [data sets](Ex4_Data.zip) and save the folder on your PC and unzip the file. The zip folder includes:
 - `sen_healthsites.shp` (and the other shapefiles): Senegal healthsites data from https://data.humdata.org/dataset/senegal-healthsites
 - `sen_admbnda_adm1_1m_gov_ocha_20190426.shp` (and the other shapefiles): Senegal boundary data (Admin level 1) from https://data.humdata.org/dataset/senegal-administrative-boundaries
 - `EO4SD_SAINT_LOUIS_FLOOD_2018.shp` (and the other shapefiles): Saint Louis flood extend data from https://wbwaterdata.org/dataset/saint-louis-senegal-flood-risk-map-esa-eo4sd-urban
