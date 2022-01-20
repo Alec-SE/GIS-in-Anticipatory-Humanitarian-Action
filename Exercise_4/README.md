@@ -40,9 +40,9 @@ Create an overview of disaster effects in the different regions of Senegal. Use 
     * First add the total population of each admin area to the shapefiles. Choose a suited field name and field data type.
     * Then add the number of directly and indirectly affected people. Choose a suited field name and field data type.
 * Use the table functions to calculate the relative number of population directly and indirectly affected in relation to the total population per region.
-* Use the “Symbology“ to choose a color scheme to visualize the share of directly affected people in the different regions (Hint: „Categorized“).
+* Use the “Symbology“ to choose a color scheme to visualize the share of directly affected people in the different regions (Hint: "Categorized“).
     * Play around with different modes to find a useful color/categorization scheme for the visualization.
-    * → Which regions are more and which are less directly affected? Are there data gaps?
+     → Which regions are more and which are less directly affected? Are there data gaps?
 * Export the map as png (Hint: Project, Import/Export, Export map to Image).
 * Repeat the previous step, however this time visualize the indirectly affected people in each region (Hint: „Categorized“, column „Indirectly affected“).
 * What are the differences to the directly affected regions when you look at the previously exported map?
@@ -60,17 +60,17 @@ Assess the Healthsite distribution in Saint Louis:
 Investigate Flood Risk in Saint Louis. After the successful selection of all health sites in the Saint Louis region in the previous step, please load the flood extend layer of Saint Louis into QGIS:
 * Add the flood extend layer as an extra layer.
 * The layer does not cover the whole Saint Louis region, however it goes beyond Saint Louis in the north.
-* Use the clip tool to clip the flood extend layer to the Saint Louis region (Hint: input Saint Louis flood extend, „Saint_louis_region“ as overlay) to enable focusing on central Saint Louis.
+* Use the clip tool to clip the flood extend layer to the Saint Louis region (Hint: Input Saint Louis flood extend, „Saint_louis_region“ as overlay) to enable focusing on central Saint Louis.
 * Save the selection as „Saint_Louis_flood_clipped“.
 
 When you look into the attribute table of the „Saint_Louis_flood_clipped“ layer (column watertype), you will see that the layer includes flooded, non-flooded and waterbody areas. Visualize only the flooded areas and water bodies in the dataset:
-* Go into „Symbology“ and change the first selection from „Single symbols“ to „Categorized“.
+* Go into „Symbology“ and change the first selection from "Single symbols“ to „Categorized“.
 * Select the column “watertype“ and click “Classify“.
 * Choose different colors for the water bodies and the flooded areas. Leave non-flooded unmarked or make sure to make the areas transparent (opacity = 0%).
 * Visual exploration: Which areas are more and less prone to flooding?
 
 Assess which health sites are prone to flood risk.
-* Make use of the „Select by expression“ tool to select all flooded areas in the „Saint_Louis_flood_clipped“ layer (Hint: „WATERTYPE = ‘FLOODED‘).
+* Make use of the „Select by expression“ tool to select all flooded areas in the „Saint_Louis_flood_clipped“ layer (Hint: WATERTYPE = ‘FLOODED‘).
 * Save the selection in a separate layer “Saint_Louis_flooded_areas“.
 * You can remove the “Saint_Louis_flood_clipped“ layer to avoid confusion.
 * Make use of the „Select by location“ tool to assess which health sites are prone to flooding (are located within the layer which was created in the previous step).
@@ -78,6 +78,6 @@ Assess which health sites are prone to flood risk.
 
 Which health sites are located close to flood zones?
 * Create buffers around the health sites in Saint Louis with a distance of 20 meters.
-* Make use of the „Select by location“ tool to assess which buffers intersect with flood areas. (*Hint: By the latest at that stage, you will be reminded to reproject your layers ;-) Meaningful buffers can only be calculated in projected coordinate systems.*)
+* Make use of the „Select by location“ tool to assess which buffers intersect with flood areas. (*Hint: By the latest at that stage, you will be reminded to reproject your layers ;-) Meaningful buffers can only be calculated in projected coordinate systems.)
 * How many health sites are selected? Check the attribute table. There should be five pharmacies and one hospital in the selection.
 * Feel free to play around with additional buffer distances.
