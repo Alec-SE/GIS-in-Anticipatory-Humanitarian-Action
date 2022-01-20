@@ -42,7 +42,7 @@ Create an overview of disaster effects in the different regions of Senegal. Use 
 * Use the table functions to calculate the relative number of population directly and indirectly affected in relation to the total population per region.
 * Use the “Symbology“ to choose a color scheme to visualize the share of directly affected people in the different regions (Hint: "Categorized“).
     * Play around with different modes to find a useful color/categorization scheme for the visualization.
-     → Which regions are more and which are less directly affected? Are there data gaps?
+    * Which regions are more and which are less directly affected? Are there data gaps?
 * Export the map as png (Hint: Project, Import/Export, Export map to Image).
 * Repeat the previous step, however this time visualize the indirectly affected people in each region (Hint: „Categorized“, column „Indirectly affected“).
 * What are the differences to the directly affected regions when you look at the previously exported map?
