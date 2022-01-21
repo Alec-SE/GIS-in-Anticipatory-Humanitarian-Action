@@ -54,6 +54,10 @@
 - [Spatial Joins](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/wikis/spatial-joins)
 - [Non spatial Joins](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/wikis/non-spatial-joins)
 
+**Interesting articles:**
+
+- [1854 Broad Street cholera outbreak](https://en.wikipedia.org/wiki/1854_Broad_Street_cholera_outbreak)
+
 **Data sources:**
 
 - [HDX](https://data.humdata.org/)
