@@ -13,7 +13,10 @@
 
 **Self study:** [exercise_1](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/tree/main/Exercise_1)
 
-**Slides:** [Day1_Geodata](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/blob/main/Day%201_Geodata.pptx)
+**Slides:** 
+
+- [Day1_Geodata](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/blob/main/Day%201_Geodata.pptx)
+- [Intro_HeiGIT.pptx](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/blob/main/Intro_HeiGIT.pptx)
 
 
 ## Day 2: Visualization in QGIS
