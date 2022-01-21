@@ -32,8 +32,8 @@
 
 **Plugins:**
 
-- QuickMapService
-- OSM Place search
+- [QuickMapService](https://docs.qgis.org/3.16/en/docs/training_manual/qgis_plugins/plugin_examples.html)
+- [OSM Place search](http://www.qgistutorials.com/de/docs/downloading_osm_data.html)
 
 **Data sources:**
 
