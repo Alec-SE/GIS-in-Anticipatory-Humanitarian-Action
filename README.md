@@ -88,3 +88,6 @@
 **Data Sources:**
 [WorldPop](https://www.worldpop.org/geodata/)
 
+**Day4_Exercise:**
+[Day4_Healthcare_Cusco](link to page with SLIDES)
+
