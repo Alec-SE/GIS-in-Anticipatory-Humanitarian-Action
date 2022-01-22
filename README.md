@@ -75,9 +75,10 @@
 
 **Wiki Day 4**
 
-**Day 4.: Open geodata in Anticipatory Action**
-
 - [QuickOSM](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/wikis/QuickOSM)
 - [Buffer](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/wikis/Buffer)
 - [Raster](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/wikis/Raster)
 
+**Follow along:**
+
+**Slides:**
