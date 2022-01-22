@@ -69,3 +69,15 @@
 **Follow along:** [exercise_4](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/tree/main/Exercise_4)
 
 **Slides:** [Day3_Geoprocessing](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/blob/main/Day3_Geoprocessing.pptx)
+
+
+## Day 4: Open geodata in Anticipatory Action
+
+**Wiki Day 4**
+
+**Day 4.: Open geodata in Anticipatory Action**
+
+- [QuickOSM](QuickOSM)
+- [Buffer](Buffer)
+- [Raster](Raster)
+
