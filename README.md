@@ -86,7 +86,7 @@
 [RasterIntro]
 
 **Data Sources:**
-[WorldPop](https://www.worldpop.org/geodata/)
+[WorldPop](https://www.worldpop.org/geodata/summary?id=50047)
 
 **Day4_Exercise:**
 [Day4_Healthcare_Cusco](link to page with SLIDES)
