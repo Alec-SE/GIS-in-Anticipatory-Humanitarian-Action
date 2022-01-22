@@ -79,11 +79,16 @@
 - [Buffer](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/wikis/Buffer)
 - [Raster](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/wikis/Raster)
 
-**Follow along:**
-
-**Slides:**
+**Follow along Slides:**
 [OSMIntro,HumanitarianOpenStreetMapTeam,OSMTools]
 [DataCreationQGIS]
 [ORSTools]
 [RasterIntro]
+
+**Data Sources:**
+-  [WorldPop](https://www.worldpop.org/geodata/)
+
+**Day4_Exercise Slides:**
+Day4_
+
 
