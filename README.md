@@ -82,3 +82,8 @@
 **Follow along:**
 
 **Slides:**
+[OSMIntro,HumanitarianOpenStreetMapTeam,OSMTools]
+[DataCreationQGIS]
+[ORSTools]
+[RasterIntro]
+
