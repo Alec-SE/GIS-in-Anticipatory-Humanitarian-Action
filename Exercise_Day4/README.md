@@ -14,7 +14,7 @@ Reproject Raster (Warp)
 Zonal statistics
 
 ### Data:
-„per_ppp_2020_UNadj_constrained“ from WorldPop https://www.worldpop.org/geodata/summary?id=50047
+[„per_ppp_2020_UNadj_constrained“](per_ppp_2020_UNadj_constrained.zip) from WorldPop https://www.worldpop.org/geodata/summary?id=50047
 
 ### Understand the state of the Healthcare coverage in the Cusco region (Peru)/ Background:
 
@@ -64,5 +64,5 @@ Read through the whole exercise before you start with the first steps.
 5. The „_sum“ column in the attribute table of the newly created layer provides information about the        population inside the selected „merge buffer layer“ area.
 
 *Hint: 
-If you would like to get statistics of the single layers, leave out the merge layer step and apply the zonal statistics to both vector layers seperatly.
+If you would like to get statistics of the single layers, leave out the merge layer step and apply the zonal statistics to both vector layers seperately.
 If you would like to create statistics for each buffer region, do not set the mark at „Dissolve result“.*
