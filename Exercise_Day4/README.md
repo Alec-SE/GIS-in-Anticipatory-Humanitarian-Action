@@ -71,7 +71,9 @@ If you would like to create statistics for each buffer region, do not set the ma
 ## ORS Tools
 
 While the result of the previous steps show that quite a large part of the population seems to live not more than 10 kilometers from a health facility, the terrain around Cusco could have an important effect on the accessibility.
+
 Select single health facilities and access how accessible they are using the ORS Tools (ORS Plugin, also see Wiki ORS Tools).
+
 Feel free to play around with different times and distances.
 
 
