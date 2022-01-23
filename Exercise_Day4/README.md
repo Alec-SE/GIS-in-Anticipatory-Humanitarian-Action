@@ -1,4 +1,4 @@
-***Exercise Day 4***
+###Exercise Day 4###
 
 **Aim of the exercise:**
 Repetition of the OpenStreetMap download, vector data geprocessing and first analyses of raster data. 
