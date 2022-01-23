@@ -84,16 +84,13 @@
 [OSMIntro,HumanitarianOpenStreetMapTeam,OSMTools]
 [DataCreationQGIS]
 [ORSTools]
-[RasterIntro]
+[RasterIntro](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/blob/main/Raster.pdf)
 
-**Data Sources:**
+**Data Source for follow along and Exercise:**
 [WorldPop](https://www.worldpop.org/geodata/summary?id=50047)
 
 **Day4_Exercise:**
 [Day4_Healthcare_Cusco](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/tree/main/Exercise_Day4)
 
-**Slides:**
-[Day4OSM_HOT]
-[ORS]
-[Raster]
+
 
