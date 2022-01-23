@@ -41,12 +41,15 @@ Read through the whole exercise before you start with the first steps.
 ![](select_buffer_layers.png)
 
 * Merge the feature attributes in the layer by
-        * Opening the attribute table
-        * Toggle editing/ Start the editing mode
-        * Select all attributes (only two rows in the attribute table in this example)
-        * Go to the „Edit“ menu and select „Merge selected features“
-        * Press okay to start the process.
-        * Stop the editing process and save the changes (click „save“ when stop editing).
+1. Opening the attribute table
+2. Toggle editing/ Start the editing mode
+3. Select all attributes (only two rows in the attribute table in this example)
+4. Go to the „Edit“ menu and select „Merge selected features“
+
+![Select_all_attributes.png]
+
+5. Press okay to start the process.
+6. Stop the editing process and save the changes (click „save“ when stop editing).
 
 ![Select_all_attributes.png]
 
