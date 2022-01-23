@@ -90,5 +90,5 @@
 [WorldPop](https://www.worldpop.org/geodata/summary?id=50047)
 
 **Day4_Exercise:**
-[Day4_Healthcare_Cusco](link to page with SLIDES)
+[Day4_Healthcare_Cusco](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/tree/main/Exercise_Day4)
 
