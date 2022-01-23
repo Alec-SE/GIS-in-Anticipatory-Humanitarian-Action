@@ -51,6 +51,7 @@ Read through the whole exercise before you start with the first steps.
 5. Press okay to start the process.
 6. Stop the editing process and save the changes (click „save“ when stop editing).
 
+## Raster and vector data analyses
 
 * Load the raster data set into QGIS (Hint: Wiki Raster). 
 
@@ -66,3 +67,11 @@ Read through the whole exercise before you start with the first steps.
 *Hint: 
 If you would like to get statistics of the single layers, leave out the merge layer step and apply the zonal statistics to both vector layers seperately.
 If you would like to create statistics for each buffer region, do not set the mark at „Dissolve result“.*
+
+## ORS Tools
+
+While the result of the previous steps show that quite a large part of the population seems to live not more than 10 kilometers from a health facility, the terrain around Cusco could have an important effect on the accessibility.
+Select single health facilities and access how accessible they are using the ORS Tools (ORS Plugin, also see Wiki ORS Tools).
+Feel free to play around with different times and distances.
+
+
