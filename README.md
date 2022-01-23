@@ -79,7 +79,7 @@
 - [CreateData/Digitizing](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/wikis/Create%20data%20in%20QGIS/Digitizing)
 - [Buffer](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/wikis/Buffer)
 - [Raster](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/wikis/Raster)
--[ORSTools](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/wikis/ORSTools)
+- [ORSTools](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/wikis/ORSTools)
 
 **Follow along Slides:**
 [OSMIntro, HumanitarianOpenStreetMapTeam, OSM/ HOT Tools]
