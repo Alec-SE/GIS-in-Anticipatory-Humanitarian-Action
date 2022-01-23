@@ -32,21 +32,23 @@ Read through the whole exercise before you start with the first steps.
 
 * Create 10 kilometer buffers around both of the healthcare layers and make sure to mark „Dissolve result“ (Hint: Wiki Buffer). 
 
-* Merge both datasets to one vector dataset using the „Merge Vector Layers“ Tool
+* Merge both datasets to one vector dataset using the „Merge Vector Layers“ Tool:
 
+![](Merge_vector.png)
 
+* Input: Select the „…“ and select both buffer layers as input. Save the created „Merged layer under a new file name.
 
+![](select_buffer_layers.png)
 
-
-
-    * Input: Select the „…“ and select both buffer layers as input. Save the created „Merged layer under a new file name.
-    * Merge the feature attributes in the layer by
+* Merge the feature attributes in the layer by
         * Opening the attribute table
         * Toggle editing/ Start the editing mode
         * Select all attributes (only two rows in the attribute table in this example)
         * Go to the „Edit“ menu and select „Merge selected features“
         * Press okay to start the process.
         * Stop the editing process and save the changes (click „save“ when stop editing).
+
+![Select_all_attributes.png]
 
 * Load the raster data set into QGIS (Hint: Wiki Raster). 
 
