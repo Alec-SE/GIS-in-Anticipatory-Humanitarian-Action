@@ -57,11 +57,11 @@ Read through the whole exercise before you start with the first steps.
 * Use the „Warp (Reproject)“ Tool to reproject the raster layer to UTM 19S (Hint: Wiki Raster).
 
 * Zonal statistics (Hint: Wiki Raster):
-    * Open the „Zonal statistics tool“
-    * Select the merged buffer layer as vector input layer and the population layer as raster input 
-    * Choose the statistics you would like to calculate (e.g. count, sum, mean)
-    * Choose a folder for your output.
-    * The „_sum“ column in the attribute table of the newly created layer provides information about the        population inside the selected „merge buffer layer“ area.
+1. Open the „Zonal statistics tool“
+2. Select the merged buffer layer as vector input layer and the population layer as raster input 
+3. Choose the statistics you would like to calculate (e.g. count, sum, mean)
+4. Choose a folder for your output.
+5. The „_sum“ column in the attribute table of the newly created layer provides information about the        population inside the selected „merge buffer layer“ area.
 
 *Hint: 
 If you would like to get statistics of the single layers, leave out the merge layer step and apply the zonal statistics to both vector layers seperatly.
