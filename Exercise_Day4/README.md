@@ -46,12 +46,11 @@ Read through the whole exercise before you start with the first steps.
 3. Select all attributes (only two rows in the attribute table in this example)
 4. Go to the „Edit“ menu and select „Merge selected features“
 
-![Select_all_attributes.png]
+![](Select_all_attributes.png)
 
 5. Press okay to start the process.
 6. Stop the editing process and save the changes (click „save“ when stop editing).
 
-![Select_all_attributes.png]
 
 * Load the raster data set into QGIS (Hint: Wiki Raster). 
 
