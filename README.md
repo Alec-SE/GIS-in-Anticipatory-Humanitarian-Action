@@ -82,10 +82,10 @@
 - [ORSTools Hands-on](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/wikis/ORSTools)
 
 **Follow along Slides:**
-[OSMIntro, HumanitarianOpenStreetMapTeam, OSM/ HOT Tools](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/blob/main/OSM_HOT_Tools.pdf)
-[DataCreationQGIS](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/wikis/uploads/eba9b266cde0a54dc9997abbf3841daa/Data_creation_QGIS.pdf)
-[openrouteservice(ORS) intro](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/blob/main/HeiGIT__ORS_presentation.pdf)
-[RasterIntro](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/blob/main/Raster.pdf)
+- [OSMIntro, HumanitarianOpenStreetMapTeam, OSM/ HOT Tools](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/blob/main/OSM_HOT_Tools.pdf)
+- [DataCreationQGIS](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/wikis/uploads/eba9b266cde0a54dc9997abbf3841daa/Data_creation_QGIS.pdf)
+- [openrouteservice(ORS) intro](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/blob/main/HeiGIT__ORS_presentation.pdf)
+- [RasterIntro](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/blob/main/Raster.pdf)
 
 **Data Source for follow along and Exercise:**
 [WorldPop](https://www.worldpop.org/geodata/summary?id=50047)
