@@ -76,6 +76,7 @@
 **Wiki Day 4**
 
 - [QuickOSM](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/wikis/QuickOSM)
+- [OSM Data Editing](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/blob/main/OSM_Data_Editing.pdf)
 - [CreateData/Digitizing](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/wikis/Create%20data%20in%20QGIS/Digitizing)
 - [Buffer](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/wikis/Buffer)
 - [Raster](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/wikis/Raster)
