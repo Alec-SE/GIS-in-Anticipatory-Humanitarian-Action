@@ -96,7 +96,7 @@
 [Day4_Healthcare_Cusco](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/tree/main/Exercise_Day4)
 
 ## Day 5: GIS in risk assessment and creation of Intervention maps
-**Raster data**
+** - Raster data - **
 
 **Follow along Slides:**
 - [RasterIntro](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/blob/main/Raster.pdf)
@@ -108,4 +108,4 @@
 **Day4_Exercise:**
 [Day4_Healthcare_Cusco](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/tree/main/Exercise_Day4)
 
-**Risk assessment**
+** - Risk assessment - **
