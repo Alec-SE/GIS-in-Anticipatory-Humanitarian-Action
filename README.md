@@ -109,3 +109,8 @@
 [Day4_Healthcare_Cusco](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/tree/main/Exercise_Day4)
 
 **Risk assessment**
+
+
+[Follow along exercise](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/blob/main/RiskAssessment_data.zip)
+
+
