@@ -114,6 +114,13 @@
 - [Risk assessment data](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/blob/main/RiskAssessment_data.zip)
 - [Risk assessment follow along pdf](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/blob/main/Follow_along_Risk_assessment.pdf)
 
+**Wiki Day 5**
+- [Non spatial Joins](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/wikis/non-spatial-joins)
+- [Centroid](https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/-/wikis/uploads/QGIS/videos/qgis_geometry_centroids.mp4)
+- [Spatial Joins](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/wikis/spatial-joins)
+- [Table functions](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/wikis/table-functions)
+
+
 **Data sources:**
 
 - [HDX](https://data.humdata.org/)
