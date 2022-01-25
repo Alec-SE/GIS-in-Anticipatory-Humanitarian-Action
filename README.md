@@ -113,4 +113,8 @@
 **Follow along risk assessment**
 [Risk assessment data](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/blob/main/RiskAssessment_data.zip)
 
+**Data sources:**
+
+- [HDX](https://data.humdata.org/)
+- [EU Joint Research Centre](https://data.jrc.ec.europa.eu/dataset/)
 
