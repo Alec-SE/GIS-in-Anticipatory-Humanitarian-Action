@@ -110,7 +110,7 @@
 
 **Risk assessment**
 
-
-[Follow along exercise](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/blob/main/RiskAssessment_data.zip)
+*Follow alon risk assessment*
+[Risk assessment data](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/blob/main/RiskAssessment_data.zip)
 
 
