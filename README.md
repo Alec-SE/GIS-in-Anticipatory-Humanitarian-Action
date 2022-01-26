@@ -105,9 +105,6 @@
 [WorldPop](https://www.worldpop.org/geodata/summary?id=50047)
 [Data](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/blob/main/per_ppp_2020_UNadj_constrained.zip)
 
-**Day4_Exercise:**
-[Day4_Healthcare_Cusco](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/tree/main/Exercise_Day4)
-
 *Risk assessment*
 
 **Follow along risk assessment**
@@ -125,4 +122,7 @@
 
 - [HDX](https://data.humdata.org/)
 - [EU Joint Research Centre](https://data.jrc.ec.europa.eu/dataset/)
+
+**Folow-up Day4_Exercise:**
+[Day4_Healthcare_Cusco](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/tree/main/Exercise_Day4)
 
