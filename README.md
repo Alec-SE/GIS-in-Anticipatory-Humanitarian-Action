@@ -124,7 +124,7 @@
 - [EU Joint Research Centre](https://data.jrc.ec.europa.eu/dataset/)
 
 **Composite Indicators**
-- [OECD Handbook](https://www.oecd.org/sdd/42495745.pdf)
+- [OECD Handbook on Composite Indicators](https://www.oecd.org/sdd/42495745.pdf)
 - [JRC Composite Indicator Tools](https://knowledge4policy.ec.europa.eu/composite-indicators/2021-jrc-week-composite-indicators-scoreboards_en#agenda)
 
 **Follow-up Day4_Exercise:**
