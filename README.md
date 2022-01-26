@@ -123,6 +123,10 @@
 - [HDX](https://data.humdata.org/)
 - [EU Joint Research Centre](https://data.jrc.ec.europa.eu/dataset/)
 
-**Folow-up Day4_Exercise:**
+** Composite Indicators**
+- [OECD Handbook](https://www.oecd.org/sdd/42495745.pdf)
+- [JRC Composite Indicator Tools](https://knowledge4policy.ec.europa.eu/composite-indicators/2021-jrc-week-composite-indicators-scoreboards_en#agenda)
+
+**Follow-up Day4_Exercise:**
 [Day4_Healthcare_Cusco](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/tree/main/Exercise_Day4)
 
