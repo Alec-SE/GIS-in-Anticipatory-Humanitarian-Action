@@ -108,6 +108,7 @@
 **Risk assessment**
 
 *Follow along risk assessment*
+- [Risk assessment slides](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/blob/main/Day5_Risk_assessment_and_intervention_map_-_KDall.pdf)
 - [Risk assessment data](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/blob/main/RiskAssessment_data.zip)
 - [Risk assessment follow along pdf](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/blob/main/Follow_along_Risk_assessment.pdf)
 
