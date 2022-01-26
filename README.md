@@ -119,7 +119,7 @@
 - [Centroid](https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/-/wikis/uploads/QGIS/videos/qgis_geometry_centroids.mp4)
 - [Spatial Joins](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/wikis/spatial-joins)
 - [Table functions](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/wikis/table-functions)
-
+- [Raster](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/wikis/Raster)
 
 **Data sources:**
 
