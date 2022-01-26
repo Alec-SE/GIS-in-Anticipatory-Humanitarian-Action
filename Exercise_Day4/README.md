@@ -7,11 +7,12 @@ Learning how to reveal circumstances and connections between vector and raster d
 
 ### Wiki:
 
-QuickOSM
-Buffer
-Open Raster Layer
-Reproject Raster (Warp)
-Zonal statistics
+- QuickOSM
+- Buffer
+- Open Raster Layer
+- Reproject Raster (Warp)
+- Zonal statistics
+
 
 ### Data:
 [„per_ppp_2020_UNadj_constrained“](per_ppp_2020_UNadj_constrained.zip) from WorldPop https://www.worldpop.org/geodata/summary?id=50047
