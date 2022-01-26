@@ -96,18 +96,18 @@
 [Day4_Healthcare_Cusco](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/tree/main/Exercise_Day4)
 
 ## Day 5: GIS in risk assessment and creation of Intervention maps
-*Raster data*
+**Raster data**
 
-**Follow along Slides:**
+*Follow along Slides:*
 - [RasterIntro](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/blob/main/Raster.pdf)
 
-**Data Source for follow along and Exercise:**
+*Data Source for follow along and Exercise:*
 [WorldPop](https://www.worldpop.org/geodata/summary?id=50047)
 [Data](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/blob/main/per_ppp_2020_UNadj_constrained.zip)
 
-*Risk assessment*
+**Risk assessment**
 
-**Follow along risk assessment**
+*Follow along risk assessment*
 - [Risk assessment data](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/blob/main/RiskAssessment_data.zip)
 - [Risk assessment follow along pdf](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/blob/main/Follow_along_Risk_assessment.pdf)
 
@@ -123,7 +123,7 @@
 - [HDX](https://data.humdata.org/)
 - [EU Joint Research Centre](https://data.jrc.ec.europa.eu/dataset/)
 
-** Composite Indicators**
+**Composite Indicators**
 - [OECD Handbook](https://www.oecd.org/sdd/42495745.pdf)
 - [JRC Composite Indicator Tools](https://knowledge4policy.ec.europa.eu/composite-indicators/2021-jrc-week-composite-indicators-scoreboards_en#agenda)
 
