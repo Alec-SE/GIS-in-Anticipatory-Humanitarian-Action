@@ -26,7 +26,7 @@ Download the [data (final_assignment_data)]() and save it on your PC. Create a l
 5. Great a buffer around the river. Chose a reasonable extend of the buffer.
 6. Cut the party of the landuse layer which are potentially effected by flood with the intersection tool.
 7. Great a map to visualize the landuse in the area and which areas are at risk of flood. Note that you can also chose to only show a smaller part of the area if you like. 
-8. Export your map as PDF.
+8. Export your map as PDF and send it to ….
 
 
 ##This (or similar) is what it looks like in the end:
