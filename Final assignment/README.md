@@ -22,7 +22,7 @@ Download the [final_assignment_data.zip](https://gitlab.com/Alec-SE/gis-in-antic
 1. Load the data into your programme.
 2. Make sure that all layers are projected in [Afgooye / UTM zone 38N (EPSG:20538)]( https://epsg.io/20538).
 3. Classify the landuse data.
-4. **(Optional)** You can use stability imagery as base map via the [QuickMapServices](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/wikis/Basemaps) plugin.
+4. **(Optional)** You can use satellite imagery as base map via the [QuickMapServices](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/wikis/Basemaps) plugin.
 5. Great a buffer around the river. Chose a reasonable extend of the buffer.
 6. Cut the party of the landuse layer which are potentially effected by flood with the intersection tool.
 7. Great a map to visualize the landuse in the area and which areas are at risk of flood. Note that you can also chose to only show a smaller part of the area if you like. 
