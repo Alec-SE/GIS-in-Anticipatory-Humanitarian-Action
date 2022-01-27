@@ -133,11 +133,14 @@
 
 ## Day 6.: Data Sources, Final Assignment, Evaluation
 
+**Data Sources Overview**
 - [Data Sources Overview](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/wikis/Data-Sources) 
 
-**Data Source for final assignment:**
+**Final Assignment** 
 
-**[Final assignment](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/tree/main/Final%20assignment)**
+- Data Source for final assignment:
+
+- [Final assignment](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/tree/main/Final%20assignment)
 
 
 
