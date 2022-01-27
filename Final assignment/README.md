@@ -8,6 +8,8 @@ You will great a map which shows farmland and residential areas which are potent
 
 Note that this is not a precise flood risk map, this is just an exercise!
 
+[**Some inspiration**]( https://unosat-maps.web.cern.ch/SO/FL20200428SOM/UNOSAT_A3_Natural_Landscape_FL20200428SOM_Beledweyne_Somalia_13052020.pdf) 
+
 **Data:**
 
 Download the [final_assignment_data.zip](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/blob/main/Final%20assignment/final_assignment_data.zip) and save it on your PC. Create a local folder and save the above data there. (.zip folders must be unzipped beforehand.)
