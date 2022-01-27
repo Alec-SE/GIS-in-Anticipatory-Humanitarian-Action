@@ -8,7 +8,7 @@ Note that this is not a precise flood risk map, this is just an exercise!
 
 **Data:**
 
-Download the [data (final_assignment_data)]() and save it on your PC. Create a local folder and save the above data there. (.zip folders must be unzipped beforehand.)
+Download the [final_assignment_data.zip](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/blob/main/Final%20assignment/final_assignment_data.zip) and save it on your PC. Create a local folder and save the above data there. (.zip folders must be unzipped beforehand.)
 
 
 - [Webi Shabeelle river)](https://data.humdata.org/dataset/hotosm_som_waterways) (Line) 
