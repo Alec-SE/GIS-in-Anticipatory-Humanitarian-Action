@@ -26,7 +26,7 @@ Download the [final_assignment_data.zip](https://gitlab.com/Alec-SE/gis-in-antic
 3. Classify the landuse data.
 4. **(Optional)** You can use satellite imagery as base map via the [QuickMapServices](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/wikis/Basemaps) plugin.
 5. Great a buffer around the river. Chose a reasonable extend of the buffer.
-6. Copy the part of the landuse layer which are potentially effected by flood with the intersection tool.
+6. Copy the part of the landuse layer which are potentially effected by flood with the [intersection tool](https://www.youtube.com/watch?v=QBVv7h2Jhvo)(Minute 02:05-02:25).
 7. Great a map to visualize the landuse in the area and which areas are at risk of floods. Note that you can also chose to only show a smaller part of the area if you like. 
 8. Export your map as PDF and send it to ….
 
