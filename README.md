@@ -131,3 +131,9 @@
 **Follow-up Day4_Exercise:**
 [Day4_Healthcare_Cusco](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/tree/main/Exercise_Day4)
 
+## Day 6: Final assignment
+
+*+Data Source for final assignment:**
+
+
+
