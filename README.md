@@ -133,7 +133,9 @@
 
 ## Day 6: Final assignment
 
-*+Data Source for final assignment:**
+**Data Source for final assignment:**
+
+**[Final assignment](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/tree/main/Final%20assignment)**
 
 
 
