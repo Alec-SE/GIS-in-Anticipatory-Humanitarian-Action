@@ -28,8 +28,8 @@ Download the [final_assignment_data.zip](https://gitlab.com/Alec-SE/gis-in-antic
 3. Make sure that all layers are projected in [Afgooye / UTM zone 38N (EPSG:20538)]( https://epsg.io/20538).
 4. Classify the landuse data in useful manner.
 5. Create a buffer around the river. Choose a reasonable extend of the buffer.
-6. Copy the part of the landuse layer which are potentially effected by flood with the [intersection tool](https://www.youtube.com/watch?v=QBVv7h2Jhvo)(Minute 02:05-02:25).
-7. Create a map that shows the kind of landuse in the area of interest and which areas are potentially at flood risk. Note that you can also choose to only show a smaller part of the area if you like. 
+6. Copy the part of the landuse layer which are potentially effected by flooding with the [intersection tool](https://www.youtube.com/watch?v=QBVv7h2Jhvo)(Minute 02:05-02:25).
+7. Create a map that shows the different kinds of landuse in the area of interest. Furthermore, the map should emphasize which areas are potentially at flood risk. Note that you can also choose to only show a smaller part of the area if you like. 
 8. Export your map as PDF and send it to... 
 
 
