@@ -99,19 +99,23 @@
 **Follow along/ self study:** [Exercise_5 (Healtcare_cusco)](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/tree/main/Exercise_5)
 
 ## Day 5: GIS in risk assessment and creation of Intervention maps
-**Raster data**
 
-*Follow along Slides:*
+
+**Follow along Slides:**
+
+*Raster data*
 - [RasterIntro](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/blob/main/Raster.pdf)
+*Risk assessment*
+- [Risk assessment slides](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/blob/main/Day5_Risk_assessment_and_intervention_map_-_KDall.pdf)
 
 *Data Source for follow along and Exercise:*
 [WorldPop](https://www.worldpop.org/geodata/summary?id=50047)
 [Data](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/blob/main/per_ppp_2020_UNadj_constrained.zip)
 
-**Risk assessment**
 
-*Follow along risk assessment*
-- [Risk assessment slides](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/blob/main/Day5_Risk_assessment_and_intervention_map_-_KDall.pdf)
+
+**Follow along risk assessment:** 
+
 - [Risk assessment data](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/blob/main/RiskAssessment_data.zip)
 - [Risk assessment follow along pdf](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/blob/main/Follow_along_Risk_assessment.pdf)
 
