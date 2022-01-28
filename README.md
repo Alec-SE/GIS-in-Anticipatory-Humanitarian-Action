@@ -112,7 +112,7 @@
 
 **Follow along:** [Exercise_6 (risk assessment)](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/tree/main/Exercise_6)
 
-- [Exercise_6 data](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/blob/main/RiskAssessment_data.zip)
+- [Exercise_6 data](https://gitlab.com/-/ide/project/Alec-SE/gis-in-anticipatory-humanitarian-action/tree/main/-/Exercise_6/Ex6_data.zip/)
 - [Exercise_6 (risk assessment) follow along pdf](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/blob/main/Follow_along_Risk_assessment.pdf)
 
 **Wiki Day 5**
