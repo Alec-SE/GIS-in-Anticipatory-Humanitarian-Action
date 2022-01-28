@@ -34,6 +34,7 @@ Download the [final_assignment_data.zip](https://gitlab.com/Alec-SE/gis-in-antic
 7. Load the health infrastructure and airports your QGIS and visualize them. If you chouse to show a large part of the area of interest in your final map you should create a point layer for the hospitals to visualize them better.
 8. Load the road network in your QGIS. Decide which road types you want to show and only visualize these. Ask yourself which roads would be important in case of mayor floods in the area.
 7. Create a map with all formal components (autor, date, scale,..) which shows the different kinds of landuse in the area of interest. Furthermore, the map should emphasize which areas are potentially at risk of flooding. 
-8. Export your map as PDF and send it to K.Dall@drk.de cc: Melanie.Eckle-Elze@heigit.org ; Alec.Schulze-Eckel@heigit.org 
+8. Export your map as PDF and send it to aha-Anmeldungen@akademie.rub.de
+
 
 
