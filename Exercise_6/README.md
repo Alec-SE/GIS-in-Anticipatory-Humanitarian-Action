@@ -53,7 +53,7 @@ Download the [data]() and save it on your PC. Create a local folder and save the
 
 ##This (or similar) is what it looks like in the end:
 
-![](Exercise_2.png) 
+![](Vulnerability index.png) 
 
 **Tasks: exposure**
 1. Use the raster calculator to have flooded area as 1: `"floodMapGL_rp10y@1" > 0`
@@ -67,7 +67,7 @@ Download the [data]() and save it on your PC. Create a local folder and save the
 
 ##This (or similar) is what it looks like in the end:
 
-![](Exercise_2.png) 
+![](Exposure_index.png) 
 
 **Tasks: combination of exposure and vulnerability**
 1. Field calculator and multiply the vulnerability with the exposure.
@@ -85,4 +85,4 @@ Download the [data]() and save it on your PC. Create a local folder and save the
 
 ##This (or similar) is what it looks like in the end:
 
-![](Exercise_2.png) 
+![](Combination_exposure_vulnerability.png) 
