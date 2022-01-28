@@ -17,10 +17,10 @@ Download the [final_assignment_data.zip](https://gitlab.com/Alec-SE/gis-in-antic
 
 - [Webi Shabeelle river)](https://data.humdata.org/dataset/hotosm_som_waterways) (Line) 
 - Area of interest (Own data/ Polygone)
-- Beledweyne landuse (OSM export) (Polygone)
-- [Somalia health](https://data.humdata.org/dataset/hotosm_som_health_facilities) 
-- [Somalia airports](https://data.humdata.org/dataset/hotosm_som_airports) 
-- [Somalia Leone roads](https://data.humdata.org/dataset/hotosm_som_roads) - [Info](https://wiki.openstreetmap.org/wiki/Key:highway)
+- Beledweyne landuse (OSM export) (Polygones)
+- [Somalia health](https://data.humdata.org/dataset/hotosm_som_health_facilities) (polygones)
+- [Somalia airports](https://data.humdata.org/dataset/hotosm_som_airports) (Points/ Polygones)
+- [Somalia Leone roads](https://data.humdata.org/dataset/hotosm_som_roads) - [Info](https://wiki.openstreetmap.org/wiki/Key:highway) (Line)
 
 **Note that you can also choose to only show a smaller part of the area of intrest if you like**
 
