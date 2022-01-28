@@ -20,7 +20,9 @@ Download the [final_assignment_data.zip](https://gitlab.com/Alec-SE/gis-in-antic
 - Beledweyne landuse (OSM export) (Polygone)
 - [Somalia health](https://data.humdata.org/dataset/hotosm_som_health_facilities) 
 - [Somalia airports](https://data.humdata.org/dataset/hotosm_som_airports) 
-- [Somalia Leone roads](https://data.humdata.org/dataset/somalia-roads) - [Info](https://wiki.openstreetmap.org/wiki/Key:highway)
+- [Somalia Leone roads](https://data.humdata.org/dataset/hotosm_som_roads) - [Info](https://wiki.openstreetmap.org/wiki/Key:highway)
+
+**Note that you can also choose to only show a smaller part of the area of intrest if you like**
 
 **Tasks**
 1. Load the  river, the area of interest and landuse data into your QGIS.
@@ -29,8 +31,9 @@ Download the [final_assignment_data.zip](https://gitlab.com/Alec-SE/gis-in-antic
 4. Classify the landuse data in useful manner.
 5. Create one or multible buffers around the river. Choose a reasonable extend of the buffers to identify potentially by floods effected areas around the river. 
 6. Use the intersection tool to great a layer of potentially by floods effected farmland and residential areas based on the landuse data and the buffer(s).  
-7. 
-7. Create a map that shows the different kinds of landuse in the area of interest. Furthermore, the map should emphasize which areas are potentially at flood risk. Note that you can also choose to only show a smaller part of the area if you like. 
+7. Load the health infrastructure and airports your QGIS and visualize them. If you chouse to show a large part of the area of interest in your final map you should create a point layer for the hospitals to visualize them better.
+8. Load the road network in your QGIS. Decide which road types you want to show and only visualize these. 
+7. CCreate a map with all formal components (autor, date, scale,..) which shows the different kinds of landuse in the area of interest. Furthermore, the map should emphasize which areas are potentially at risk of flooding. 
 8. Export your map as PDF and send it to... 
 
 
