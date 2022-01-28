@@ -1,5 +1,9 @@
 # GIS in Anticipatory Humanitarian Action
 
+## Contacts: 
+- German Red Cross (GRC)                                            : Karen Dall (K.Dall@drk.de) 
+- Heidelberg Institute for Geoinformation Technology (HeiGIT)       : Melanie Eckle-Elze (Melanie.Eckle-Elze@heigit.org ) & Alec Schulze-Eckel (Alec.Schulze-Eckel@heigit.org)
+
 ## Day 1: Introduction to coordinates, geodata and QGIS
 
 **Wiki Day 1**
