@@ -67,7 +67,7 @@ Download the [data]() and save it on your PC. Create a local folder and save the
 
 ##This (or similar) is what it looks like in the end:
 
-![](Exposure_index.png) 
+![](exposure index.png) 
 
 **Tasks: combination of exposure and vulnerability**
 1. Field calculator and multiply the vulnerability with the exposure.
@@ -85,4 +85,4 @@ Download the [data]() and save it on your PC. Create a local folder and save the
 
 ##This (or similar) is what it looks like in the end:
 
-![](Combination_exposure_vulnerability.png) 
+![](combination_exposure_vulnerability.png) 
