@@ -137,10 +137,11 @@
 - [Data Sources Overview](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/wikis/Data-Sources) 
 
 **Final Assignment** 
+- [Final assignment descripion](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/blob/main/January_2022_GIS_Training_Final_Assignment.pdf)
 
 - Data Source for final assignment:
 
-- [Final assignment](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/tree/main/Final%20assignment)
+- [Final assignment Option 1](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/tree/main/Final%20assignment)
 
 
 
