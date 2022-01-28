@@ -96,7 +96,7 @@
 [WorldPop](https://www.worldpop.org/geodata/summary?id=50047)
 [Data](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/blob/main/per_ppp_2020_UNadj_constrained.zip)
 
-**Follow along/ self study:** [Exercise_5 (Healtcare cusco)](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/tree/main/Exercise_5)
+**Follow along/ self study:** [Exercise_5 (Healtcare_cusco)](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/tree/main/Exercise_5)
 
 ## Day 5: GIS in risk assessment and creation of Intervention maps
 **Raster data**
@@ -132,7 +132,7 @@
 - [JRC Composite Indicator Tools](https://knowledge4policy.ec.europa.eu/composite-indicators/2021-jrc-week-composite-indicators-scoreboards_en#agenda)
 
 **Follow-up Day4_Exercise:**
-[Day4_Healthcare_Cusco](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/tree/main/Exercise_Day4)
+[Exercise_5 (Healthcare_Cusco)](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/tree/main/Exercise_5)
 
 ## Day 6.: Data Sources, Final Assignment, Evaluation
 
