@@ -27,10 +27,11 @@ Download the [data]() and save it on your PC. Create a local folder and save the
 - [10 year return period flood inundation area](https://data.jrc.ec.europa.eu/dataset/jrc-floods-floodmapgl_rp10y-tif)
 
 
-**Tasks: Vulnerability index **
+**Tasks: Vulnerability index**
 1. We start by loading in the datasets with the vulnerability indicators. The covid 19 shapefile, the population statistics csv and the admin boundaries level 2 (district). The population statistics and the admin boundaries are linked through the P code.
 2. Before you start doing any GIS operations, explore the data. Always check if the projection is the same.
 3. We see that the shape and amount of the polygons are different! Probably the risk data is using an older version of the admin boundaries.
+![](Admin_table.png) 
 4. 2 things we can do
 	a. We can take the closest district centrepoint (from the many to the fewer records dataset). This is the one we will do today as the difference is not drastically.
 	b. Rasterize and then zonal statistics with mean on the other polygons.
