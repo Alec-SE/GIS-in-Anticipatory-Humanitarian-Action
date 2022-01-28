@@ -16,19 +16,20 @@ Download the [final_assignment_data.zip](https://gitlab.com/Alec-SE/gis-in-antic
 
 
 - [Webi Shabeelle river)](https://data.humdata.org/dataset/hotosm_som_waterways) (Line) 
-- Area of interest (Polygone)
+- Area of interest (Own data/ Polygone)
 - Beledweyne landuse (OSM export) (Polygone)
-- Optional [Somalia health](https://data.humdata.org/dataset/hotosm_som_health_facilities) 
-- Optional [Somalia airports](https://data.humdata.org/dataset/hotosm_som_airports) 
-- Optional [Somalia Leone roads](https://data.humdata.org/dataset/somalia-roads) - [Info](https://wiki.openstreetmap.org/wiki/Key:highway)
+- [Somalia health](https://data.humdata.org/dataset/hotosm_som_health_facilities) 
+- [Somalia airports](https://data.humdata.org/dataset/hotosm_som_airports) 
+- [Somalia Leone roads](https://data.humdata.org/dataset/somalia-roads) - [Info](https://wiki.openstreetmap.org/wiki/Key:highway)
 
 **Tasks**
-1. Load the data into your QGIS.
+1. Load the  river, the area of interest and landuse data into your QGIS.
 2. **(Optional)** You can add satellite imagery as base map via the [QuickMapServices](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/wikis/Basemaps) plugin.
 3. Make sure that all layers are projected in [Afgooye / UTM zone 38N (EPSG:20538)]( https://epsg.io/20538).
 4. Classify the landuse data in useful manner.
-5. Create a buffer around the river. Choose a reasonable extend of the buffer.
-6. Copy the part of the landuse layer which are potentially effected by flooding with the [intersection tool](https://www.youtube.com/watch?v=QBVv7h2Jhvo)(Minute 02:05-02:25).
+5. Create one or multible buffers around the river. Choose a reasonable extend of the buffers to identify potentially by floods effected areas around the river. 
+6. Use the intersection tool to great a layer of potentially by floods effected farmland and residential areas based on the landuse data and the buffer(s).  
+7. 
 7. Create a map that shows the different kinds of landuse in the area of interest. Furthermore, the map should emphasize which areas are potentially at flood risk. Note that you can also choose to only show a smaller part of the area if you like. 
 8. Export your map as PDF and send it to... 
 
