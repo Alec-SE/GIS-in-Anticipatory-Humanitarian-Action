@@ -31,9 +31,9 @@ Download the [final_assignment_data.zip](https://gitlab.com/Alec-SE/gis-in-antic
 4. Classify the landuse data in useful manner.
 5. Create one or multiple buffers around the river. Choose a reasonable extend of the buffers to identify potentially by floods effected areas around the river. 
 6. Use the intersection tool to create a layer of potentially by floods effected farmland and residential areas based on the landuse data and the buffer(s).  
-7. Load the health infrastructure and airports your QGIS and visualize them. If you chouse to show a large part of the area of interest in your final map you should create a point layer for the hospitals to visualize them better.
-8. Load the road network in your QGIS. Decide which road types you want to show and only visualize these. Ask yourself which roads would be important in case of mayor floods in the area.
-7. Create a map with all formal components (autor, date, scale,..) which shows the different kinds of landuse in the area of interest. Furthermore, the map should emphasize which areas are potentially at risk of flooding. 
+7. Load the health infrastructure and airports your QGIS and visualize them. If you choose to show a large part of the area of interest in your final map you should create a point layer for the hospitals to visualize them better.
+8. Load the road network in your QGIS. Decide which road types you want to show and only visualize these. Ask yourself which roads would be important in case of major floods in the area.
+7. Create a map with all formal components (author, date, scale,..) which shows the different kinds of landuse in the area of interest. Furthermore, the map should emphasize which areas are potentially at risk of flooding. 
 8. Export your map as PDF and send it to aha-Anmeldungen@akademie.rub.de
 
 
