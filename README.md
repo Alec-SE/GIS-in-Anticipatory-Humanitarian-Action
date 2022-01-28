@@ -103,21 +103,17 @@
 
 **Follow along Slides:**
 
-*Raster data*
 - [RasterIntro](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/blob/main/Raster.pdf)
-*Risk assessment*
 - [Risk assessment slides](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/blob/main/Day5_Risk_assessment_and_intervention_map_-_KDall.pdf)
 
 *Data Source for follow along and Exercise:*
 [WorldPop](https://www.worldpop.org/geodata/summary?id=50047)
 [Data](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/blob/main/per_ppp_2020_UNadj_constrained.zip)
 
+**Follow along:** [Exercise_6 (risk assessment)](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/tree/main/Exercise_6)
 
-
-**Follow along risk assessment:** 
-
-- [Risk assessment data](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/blob/main/RiskAssessment_data.zip)
-- [Risk assessment follow along pdf](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/blob/main/Follow_along_Risk_assessment.pdf)
+- [Exercise_6 data](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/blob/main/RiskAssessment_data.zip)
+- [Exercise_6 (risk assessment) follow along pdf](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/blob/main/Follow_along_Risk_assessment.pdf)
 
 **Wiki Day 5**
 - [Non spatial Joins](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/wikis/non-spatial-joins)
