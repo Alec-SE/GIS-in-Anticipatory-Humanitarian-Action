@@ -53,7 +53,7 @@ Download the [data]() and save it on your PC. Create a local folder and save the
 
 ##This (or similar) is what it looks like in the end:
 
-![](Vulnerability index.png) 
+![](Vulnerability_index.png) 
 
 **Tasks: exposure**
 1. Use the raster calculator to have flooded area as 1: `"floodMapGL_rp10y@1" > 0`
