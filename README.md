@@ -7,6 +7,8 @@
 ## List of links and resources shared in the Zoomchat
 [Resources Training](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/blob/main/List_of_Links_and_Resources.pdf)
 
+## Agenda
+[Agenda](https://gitlab.com/Alec-SE/gis-in-anticipatory-humanitarian-action/-/blob/main/Agenda_Geoinformation_in_AA.docx.pdf)
 
 ## Day 1: Introduction to coordinates, geodata and QGIS
 
